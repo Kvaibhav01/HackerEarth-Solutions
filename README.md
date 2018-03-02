@@ -1,6 +1,6 @@
 # HackerEarth-Solutions
 
-## This repository consists of all the HackerRank projects or initially in Java language. (Updating regularly)
+## This repository consists of all the HackerEarth problem solutions initially in Java language. (Updating regularly)
 
 **About HackerEarth**
 
