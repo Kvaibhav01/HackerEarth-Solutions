@@ -3,6 +3,7 @@
 ##This is a solution to HackerEarth problem. Following steps are followed:
 
 *First, we take the size of the array as input (N).
+\br
 *Then, the array is declared to be of integer type.
 *The space separated array elements are taken as input from user.
 *An integer type variable is declared and initialised with value 0 as no array element is added yet.
