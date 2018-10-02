@@ -1,6 +1,6 @@
 #SUM OF SQUARES OF ARRAY OF SIZE N
 
-###Following steps are followed:
+##Following steps are followed:
 
 1. First, we take the size of the array as input (N).
 
