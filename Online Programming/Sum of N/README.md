@@ -1,4 +1,4 @@
-#ARRAY SUM OF SIZE N
+#Sum of N
 
 ##This is a solution to HackerEarth problem. Following steps are followed:
 
