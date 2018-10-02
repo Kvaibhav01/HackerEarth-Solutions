@@ -1,5 +1,7 @@
 #ARRAY SUM OF SIZE N
-###This is a solution to HackerEarth problem. Following steps are followed:
+
+##This is a solution to HackerEarth problem. Following steps are followed:
+
 *First, we take the size of the array as input (N).
 *Then, the array is declared to be of integer type.
 *The space separated array elements are taken as input from user.
