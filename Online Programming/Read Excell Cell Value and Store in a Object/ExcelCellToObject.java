@@ -17,7 +17,7 @@ public class ExcelCellToObject
      * Note: supported data Type: String, Date, int, long, float, double and boolean.
      *
      * @param obj   Object whom given field belong.
-     * @param field Field which value need to be set.
+     * git checkout@param field Field which value need to be set.
      * @param cell  Apache POI cell from which value needs to be retrived.
      */
     private void setObjectFieldValueFromCell(Object obj, Field field, Cell cell) {
