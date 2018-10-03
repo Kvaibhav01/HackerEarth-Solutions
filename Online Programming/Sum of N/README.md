@@ -14,6 +14,6 @@
 
 - Lastly, the variable sum which contains the final answer is printed as the output.
 
-Find the link to the problem statement here: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-sum-2-725368ac/
+### Find the link to the problem statement here: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-sum-2-725368ac/
 
-#HAPPYCODING ;)
+## #HAPPYCODING ;)
