@@ -1,6 +1,8 @@
 # HackerEarth-Solutions
 
-## This repository consists of all the HackerEarth problem solutions initially in Java language. (Updating regularly)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+
+## This repository consists of all the HackerEarth problem solutions. (Updating regularly)
 
 **About HackerEarth**
 
