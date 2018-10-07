@@ -1,3 +1,4 @@
+#Compiles only on Python 2.7.6 environment
 # Write your code here
 N=map(int,raw_input().split())
 arr=map(int,raw_input().split())

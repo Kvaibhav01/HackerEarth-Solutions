@@ -1,3 +1,4 @@
+#Compiles only on Python 2.7.6 environment
 def solution (A, K):
     # Write your code here
     ans=0 #To save the result 
